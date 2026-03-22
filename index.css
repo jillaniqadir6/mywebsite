@@ -1,0 +1,19 @@
+body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    section {
+      padding: 80px 0;
+    }
+
+    .gradient-nav {
+      background: linear-gradient(45deg, #1d2671, #c33764);
+    }
+
+    .nav-link:hover {
+      color: #ffd700 !important;
+    }
+
+    .navbar-brand img {
+      border-radius: 8px;
+    }
